@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TextSniffy.iml" filepath="$PROJECT_DIR$/TextSniffy.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text-sniffy.iml" filepath="$PROJECT_DIR$/text-sniffy.iml" />
     </modules>
   </component>
 </project>
